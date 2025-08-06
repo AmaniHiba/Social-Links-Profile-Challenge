@@ -20,7 +20,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://amanihiba.github.io/Social-Links-Profile-Challenge/)
 
 ## My process
 
